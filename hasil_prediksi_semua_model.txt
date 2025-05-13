@@ -1,0 +1,9 @@
+Teks asli: gojek suka nyiksa driver, parah banget
+Teks setelah preprocessing: gojek suka nyiksa driver parah banget
+
+Hasil Prediksi:
+Random Forest (TF-IDF): Negatif
+Random Forest (LSA): Negatif
+SVM (TF-IDF): Negatif
+SVM (LSA): Negatif
+Decision Tree (TF-IDF): Negatif
